@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>rx_recaptcharegisterform</name>
+    <displayName><![CDATA[Google reCaptcha dla formularza rejestracji klient&oacute;w]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[Dodaje walidację Google reCaptcha do formularza rejestracji klient&oacute;w.]]></description>
+    <author><![CDATA[Łukasz Ryszkiewicz]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Jesteś pewny, że chcesz usunąć ten moduł?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
